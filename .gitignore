@@ -1,0 +1,4 @@
+vendor/*
+!vendor/vendor.json
+.vscode/
+cmd/lazypersistence/debug
